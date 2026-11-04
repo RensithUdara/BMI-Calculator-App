@@ -75,5 +75,3 @@ app.*.map.json
 
 # Generated plugin registrant files
 **/GeneratedPluginRegistrant.*
-config.bat
-node_modules
