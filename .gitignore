@@ -75,3 +75,7 @@ app.*.map.json
 
 # Generated plugin registrant files
 **/GeneratedPluginRegistrant.*
+.env
+.env.*
+.env.local
+.env.production
